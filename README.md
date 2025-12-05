@@ -1,6 +1,6 @@
 # House Sales in King County, USA — Data Analysis Project
 
-This repository contains a data analysis workflow performed on the King County House Sales dataset. The notebook includes data loading, exploratory analysis, visualization, feature–target relationship investigation, and multiple regression model trainings and evaluations. 
+This repository contains a data analysis performed on the King County House Sales dataset. The notebook includes data loading, exploratory analysis, visualization, feature–target relationship investigation, and multiple regression model trainings and evaluations. 
 I have completed this as part of my IBM Data Science Course. 
 
 ---
