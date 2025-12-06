@@ -18,10 +18,8 @@ In this project, I have:
 
 ---
 
-## Technologies Used
+## Libraries Used
 
-- Python  
-- Jupyter Notebook  
 - Pandas  
 - NumPy  
 - Matplotlib / Seaborn  
