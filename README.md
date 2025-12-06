@@ -18,7 +18,7 @@ In this project, I have:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - Jupyter Notebook  
